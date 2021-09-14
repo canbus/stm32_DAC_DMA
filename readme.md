@@ -3,11 +3,11 @@
 > stm32F091RC
 ---
 1. 设置DAC
-   <img src="1.png" width=50% height=50%>
+   <img src="1.png" width=80% height=80%>
 2. 设置DMA
-   <img src="2.png" width=50% height=50%>
+   <img src="2.png" width=80% height=80%>
 3. 设置定时器
-   <img src="3.png" width=50% height=50%>
+   <img src="3.png" width=80% height=80%>
 4. 生成正炫波数据
  ```
  /* num:一个正玄播中采集的点数
